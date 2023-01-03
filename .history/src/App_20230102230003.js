@@ -10,9 +10,8 @@ import {GlobalProvider} from './context/GlobalState';
 
 function App(){
     return(
-        <GlobalProvider className='contaxt-container'>
+        <GlobalProvider className='ccontainer'>
             <Header />
-            <hr />
             <div className='container'>
                 <Balance />
                 <IncomeExpenses />

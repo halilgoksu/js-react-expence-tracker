@@ -126,11 +126,11 @@ input[type="number"] {
 }
 
 .list li.plus {
-  border-right: 6px solid #2ecc71;
+  border-right: 8px solid #2ecc71;
 }
 
 .list li.minus {
-  border-right: 6px solid #c0392b;
+  border-right: 8px solid #c0392b;
 }
 
 .delete-btn {

@@ -12,7 +12,6 @@ function App(){
     return(
         <GlobalProvider className='contaxt-container'>
             <Header />
-            <hr />
             <div className='container'>
                 <Balance />
                 <IncomeExpenses />

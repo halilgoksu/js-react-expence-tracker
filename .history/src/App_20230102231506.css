@@ -76,10 +76,7 @@ label {
   display: inline-block;
   margin: 10px 0;
 }
-.form-control{
-  padding: 2% ;
-  
-}
+.form-control
 input[type="text"],
 input[type="number"] {
   border: 1px solid #dedede;
@@ -87,7 +84,7 @@ input[type="number"] {
   display: block;
   font-size: 16px;
   padding: 10px;
-  width: 90%;
+  width: 100%;
 }
 
 .btn {
@@ -100,7 +97,7 @@ input[type="number"] {
   font-size: 16px;
   margin: 10px 0 30px;
   padding: 10px;
-  width: 90%;
+  width: 100%;
 }
 
 .btn:focus,
@@ -110,7 +107,7 @@ input[type="number"] {
 
 .list {
   list-style-type: none;
-  padding:0 5% ;
+  padding: 4%;
   margin-bottom: 40px;
 }
 
@@ -126,11 +123,11 @@ input[type="number"] {
 }
 
 .list li.plus {
-  border-right: 6px solid #2ecc71;
+  border-right: 5px solid #2ecc71;
 }
 
 .list li.minus {
-  border-right: 6px solid #c0392b;
+  border-right: 5px solid #c0392b;
 }
 
 .delete-btn {

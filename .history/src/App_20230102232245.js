@@ -12,7 +12,7 @@ function App(){
     return(
         <GlobalProvider className='contaxt-container'>
             <Header />
-            <hr />
+            <br />
             <div className='container'>
                 <Balance />
                 <IncomeExpenses />
